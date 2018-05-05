@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="rule_number" label="Custom Rule Number" language="en" table="x_snc_manager_1_ru_x_snc_manager_1_rules1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>rule_number</element>
+            <help/>
+            <hint/>
+            <label>Custom Rule Number</label>
+            <language>en</language>
+            <name>x_snc_manager_1_ru_x_snc_manager_1_rules1</name>
+            <plural>Custom Rule Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-05 23:10:48</sys_created_on>
+            <sys_id>74bc674fdbbd1300ff0d2f0e0b9619b7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Custom Rule Number</sys_name>
+            <sys_package display_value="Manager 1 rules" source="x_snc_manager_1_ru">4f4c2b0fdbbd1300ff0d2f0e0b961991</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Manager 1 rules">4f4c2b0fdbbd1300ff0d2f0e0b961991</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_manager_1_ru_x_snc_manager_1_rules1_rule_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-05 23:19:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

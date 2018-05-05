@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-05 23:09:05</sys_created_on>
+        <sys_id>e74caf0fdbbd1300ff0d2f0e0b9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_manager_1_ru_x_snc_manager_1_rules1.x_snc_manager_1_ru.user</sys_name>
+        <sys_package display_value="Manager 1 rules" source="x_snc_manager_1_ru">4f4c2b0fdbbd1300ff0d2f0e0b961991</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manager 1 rules">4f4c2b0fdbbd1300ff0d2f0e0b961991</sys_scope>
+        <sys_security_acl display_value="x_snc_manager_1_ru_x_snc_manager_1_rules1">e34caf0fdbbd1300ff0d2f0e0b9619f1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e74caf0fdbbd1300ff0d2f0e0b9619f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-05 23:09:05</sys_updated_on>
+        <sys_user_role display_value="x_snc_manager_1_ru.user" name="x_snc_manager_1_ru.user">1b4caf0fdbbd1300ff0d2f0e0b9619b0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

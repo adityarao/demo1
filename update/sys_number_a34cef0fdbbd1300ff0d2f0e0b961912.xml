@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_manager_1_ru_x_snc_manager_1_rules1">x_snc_manager_1_ru_x_snc_manager_1_rules1</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>MAN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-05 23:09:05</sys_created_on>
+        <sys_id>a34cef0fdbbd1300ff0d2f0e0b961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MAN</sys_name>
+        <sys_package display_value="Manager 1 rules" source="x_snc_manager_1_ru">4f4c2b0fdbbd1300ff0d2f0e0b961991</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manager 1 rules">4f4c2b0fdbbd1300ff0d2f0e0b961991</sys_scope>
+        <sys_update_name>sys_number_a34cef0fdbbd1300ff0d2f0e0b961912</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-05 23:09:05</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Manager 1 rules Table" max_length="40" name="x_snc_manager_1_ru_x_snc_manager_1_rules1" type="collection">
+        <element label="Mandatory" max_length="40" name="mandatory" type="boolean"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Custom Rule Number" max_length="100" name="rule_number" type="integer"/>
+        <element label="Rule Text" max_length="1024" name="rule_text" type="html"/>
+        <element label="Short Description" max_length="256" name="short_description" type="string"/>
+    </element>
+</database>

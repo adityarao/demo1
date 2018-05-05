@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="x_snc_manager_1_ru_x_snc_manager_1_rules">198fa7cfdbbd1300ff0d2f0e0b9619a6</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Enter a customer rule number for your reference]]></content>
+        <guide display_value="Rule1">d3fe27cfdbbd1300ff0d2f0e0b9619dd</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 1</name>
+        <options/>
+        <order>1</order>
+        <placement>bottom</placement>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-05 23:23:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>258f6bcfdbbd1300ff0d2f0e0b96197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Step 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Manager 1 rules" source="x_snc_manager_1_ru">4f4c2b0fdbbd1300ff0d2f0e0b961991</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manager 1 rules">4f4c2b0fdbbd1300ff0d2f0e0b961991</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_258f6bcfdbbd1300ff0d2f0e0b96197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-05 23:23:09</sys_updated_on>
+        <target/>
+        <target_ref display_value="x_snc_manager_1_ru_x_snc_manager_1_rules">198fa7cfdbbd1300ff0d2f0e0b9619a6</target_ref>
+        <title><![CDATA[Step 1]]></title>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_snc_manager_1_ru_x_snc_manager_1_rules1.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=258f6bcfdbbd1300ff0d2f0e0b96197f"/>
+</record_update>
